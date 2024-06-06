@@ -1,0 +1,15 @@
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/bin/Debug/net8.0/BloggingSystem.Infrastructure.deps.json
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/bin/Debug/net8.0/BloggingSystem.Infrastructure.dll
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/bin/Debug/net8.0/BloggingSystem.Infrastructure.pdb
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/bin/Debug/net8.0/BloggingSystem.Domain.dll
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/bin/Debug/net8.0/BloggingSystem.Domain.pdb
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.csproj.AssemblyReference.cache
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.AssemblyInfoInputs.cache
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.AssemblyInfo.cs
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.csproj.CopyComplete
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.dll
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/refint/BloggingSystem.Infrastructure.dll
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/BloggingSystem.Infrastructure.pdb
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Infrastructure/obj/Debug/net8.0/ref/BloggingSystem.Infrastructure.dll

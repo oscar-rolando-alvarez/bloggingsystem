@@ -1,0 +1,21 @@
+version: '3.4'
+
+services:
+  sqlserver:
+    image: "mcr.microsoft.com/mssql/server"
+    environment:
+      SA_PASSWORD: "ComplexPassword123!"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+
+  api:
+    build:
+      context: .
+      dockerfile: BloggingSystem.API/Dockerfile
+    depends_on:
+      - sqlserver
+    ports:
+      - "8080:8080"
+    environment:
+      ConnectionStrings__DefaultConnection: "Server=sqlserver;Database=BloggingSystemDb;User=sa;Password=ComplexPassword123!;"

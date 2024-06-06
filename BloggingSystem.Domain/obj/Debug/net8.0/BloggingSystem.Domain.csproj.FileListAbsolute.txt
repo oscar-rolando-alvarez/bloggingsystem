@@ -1,0 +1,11 @@
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/bin/Debug/net8.0/BloggingSystem.Domain.deps.json
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/bin/Debug/net8.0/BloggingSystem.Domain.dll
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/bin/Debug/net8.0/BloggingSystem.Domain.pdb
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/BloggingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/BloggingSystem.Domain.AssemblyInfoInputs.cache
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/BloggingSystem.Domain.AssemblyInfo.cs
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/BloggingSystem.Domain.csproj.CoreCompileInputs.cache
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/BloggingSystem.Domain.dll
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/refint/BloggingSystem.Domain.dll
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/BloggingSystem.Domain.pdb
+/home/jhunter/Desktop/BloggingSystem/BloggingSystem.Domain/obj/Debug/net8.0/ref/BloggingSystem.Domain.dll
